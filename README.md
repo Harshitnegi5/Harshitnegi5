@@ -34,7 +34,10 @@
 - ⚡ Fun fact: ... I love to solve problems.
 
 ## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38">
-<p align="left"> 
+<p align="left">
+   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=x7XMNGh2vdqA&format=png"/> </a>
+      <a href="https://www.blender.org" target="_blank"> <img src="https://img.icons8.com/?size=48&id=65231&format=png"/> </a>
+    <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/?size=48&id=zfHRZ6i1Wg0U&format=png"/> </a>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
